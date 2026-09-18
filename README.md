@@ -6,6 +6,12 @@ report PDFs — "What was AWS revenue growth in Q2 2026?", "Summarize Amazon's e
 ingested reports, with source document and page citations. Retrieval-only degraded mode kicks
 in automatically whenever the LLM is unavailable, rather than failing outright.
 
+## Demo
+
+https://github.com/user-attachments/assets/16670e0b-dfb2-42ba-a05d-9ff7c7d8c84b
+
+
+
 Built from a PRD, a grilled system design, and a decision log — see **Documentation map**
 below for the full paper trail.
 
